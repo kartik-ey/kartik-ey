@@ -4,6 +4,6 @@
 **kartik-ey/kartik-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <a href="https://twitter.com/kartikeysarswat" target="_blank" rel="noreferrer noopener">
-  <img src="https://tenor.com/view/3434-gif-18657789" alt="Twitter" width="120" height="100">
+  <img src="https://user-images.githubusercontent.com/68278348/99900911-cb484000-2cd8-11eb-93b4-ee0946253733.png" width="20" height="20">
   </a>
 
