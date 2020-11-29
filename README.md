@@ -2,7 +2,9 @@
 
 <!--
 **kartik-ey/kartik-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<div>
+  <img src="https://user-images.githubusercontent.com/68278348/100543383-d15c9480-3275-11eb-9fb6-9e2ad5cc663d.jpg" width="650" height="180">
+</div> 
 <p> <b>We can connect here: <b></p>
 <div>
   <a href="https://twitter.com/kartikeysarswat" target="_blank" rel="noreferrer noopener">
